@@ -26,5 +26,6 @@ jobs:
           git config user.email "12345678+vantienpham@users.noreply.github.com"
           git config user.name "Van Tien Pham"
           git add README.md
-          git commit -m "Daily badge update" || echo "No changes to commit"
+          now=$(date)
+          git commit -m "Daily badge update on $now" || echo "No changes to commit"
           git push
