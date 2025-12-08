@@ -23,7 +23,7 @@ jobs:
 
       - name: Commit and Push changes
         run: |
-          git config user.email "12345678+vantienpham@users.noreply.github.com"
+          git config user.email "vantienpham.ai@gmail.com"
           git config user.name "Van Tien Pham"
           git add README.md
           now=$(date)
