@@ -4,7 +4,7 @@
 ![Status](https://img.shields.io/badge/Independent-(aka_Unemployed)-violet)
 ![Funding](https://img.shields.io/badge/Funding-0€/month-red)
 
-**It has been _18 days_ since the beginning of my independent research journey.**
+**It has been _19 days_ since the beginning of my independent research journey.**
 
 This repository automatically updates every day and counts the number of days since **20 November 2025**, the day my PhD contract ended and my *independent* research era began.
 
