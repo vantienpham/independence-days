@@ -11,9 +11,9 @@ def update_readme(days):
     with open("README.md", "r") as f:
         content = f.read()
 
-    # Update badge: Days_Free-###-blue
+    # Update badge: Days_Free-###-<color>
     content = re.sub(
-        r"(Days_Free-)(\d+)(-blue)",
+        r"(Days_Free-)(\d+)(-[a-zA-Z]+)",
         rf"\g<1>{days}\g<3>",
         content
     )
