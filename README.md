@@ -1,6 +1,6 @@
 # Independent Researcher – Daily Counter
 
-![Days_Free](https://img.shields.io/badge/Days_Free-16-brightgreen)
+![Days_Free](https://img.shields.io/badge/Days_Free-40-brightgreen)
 ![Status](https://img.shields.io/badge/Independent-(aka_Unemployed)-violet)
 ![Funding](https://img.shields.io/badge/Funding-0€/month-red)
 
