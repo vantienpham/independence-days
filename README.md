@@ -1,10 +1,10 @@
 # Independent Researcher – Daily Counter
 
-![Days_Free](https://img.shields.io/badge/Days_Free-119-brightgreen)
+![Days_Free](https://img.shields.io/badge/Days_Free-120-brightgreen)
 ![Status](https://img.shields.io/badge/Independent-(aka_Unemployed)-violet)
 ![Funding](https://img.shields.io/badge/Funding-0€/month-red)
 
-**It has been _119 days_ since the beginning of my independent research journey.**
+**It has been _120 days_ since the beginning of my independent research journey.**
 
 This repository automatically updates every day and counts the number of days since **20 November 2025**, the day my PhD contract ended and my *independent* research era began.
 
